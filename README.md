@@ -63,4 +63,4 @@
 
 ---
 
-![Evolve logo](https://evolvedigital.co.uk/wp-content/themes/evolve-digital/images/evolve-digital-logo.png):game_die: :honey_pot:
+:game_die: :honey_pot:
