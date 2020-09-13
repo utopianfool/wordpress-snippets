@@ -1,5 +1,7 @@
 # WordPress Snippets
 
+A collection of functions, CSS and jQuery snippets for WordPress developers.
+
 ## Index
 :globe_with_meridians:
 - Functions :file_folder:
