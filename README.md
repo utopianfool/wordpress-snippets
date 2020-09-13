@@ -22,6 +22,7 @@
     - [Formidible Forms Populate Dropdowns From Post](functions/formidible-forms-populate-dropdowns-from-post.md)
     - [Gernerate Site Map](functions/generate-site-map.md)
     - [HTML5 Reformat Telephone Numbers](functions/html5-reformat-telephone-numbers.md)
+    - [Include Custom Post Types in Search Results](functions/include-custom-post-types-in-search-results.md)
     - [Pagination](functions/pagination.md)
     - [Post Options](functions/post-options.md)
     - [Responsive Images Helper Function](functions/responsive-images-helper-function.md)
