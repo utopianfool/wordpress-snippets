@@ -35,6 +35,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Remove Hyphen in Category Slugs](functions/remove-hyphen-in-category-slugs.md)
     - [Remove Post from Admin Menu](functions/remove-post-from-admin-menu.md)
     - [Search Filter](functions/search-filter.md)
+    - [Social Share and Bookmark Page](social-share-and-bookmark-page.md)
     - [TinyMCE](functions/tiny-mce.md)
     - [Var Dump](functions/var-dump.md)
     - [Walkers](functions/walkers.md)
