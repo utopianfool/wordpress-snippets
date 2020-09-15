@@ -50,6 +50,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Searchform](templates/searchform.md)
 - Custom Branding :open_file_folder:
     - [Admin Bar Logo](templates/custom-branding/admin-bar-logo.md)
+    - [Custom Dashboard Widgets](templates/custom-branding/custom-dashboard-widgets.md)
     - [Login Page Logo](templates/custom-branding/login-page-logo.md)
     - [Footer in Admin Panel](templates/custom-branding/footer-in-admin-panel.md)
 - Walkers :open_file_folder:
