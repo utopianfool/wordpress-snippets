@@ -27,6 +27,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Include Custom Post Types in Search Results](functions/include-custom-post-types-in-search-results.md)
     - [Pagination](functions/pagination.md)
     - [Post Options](functions/post-options.md)
+    - [Register Guttenburg Editor for Custom Post Types](register-guttenburg-editor-for-custom-post-types.md)
     - [Responsive Images Helper Function](functions/responsive-images-helper-function.md)
     - [Remove Admin Bar Menu Links](functions/remove-admin-bar-menu-links.md)
     - [Remove Admin Bar for all Non Admins](functions/remove-admin-bar-for-all-non-admins.md)
