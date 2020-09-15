@@ -6,6 +6,7 @@ Insert into functions.php to add filter to Yoast meta prioity and override bread
 - [Override SEO Breadcrumb Trail](#override-seo-breadcrumb-trail)
 
 ## Filter Meta Priority
+
 ```
 /**
  * Filter Yoast Meta Priority
@@ -16,7 +17,22 @@ add_filter('wpseo_metabox_prio', function()
 }); 
 ```
 
-# Override SEO Breadcrumb Trail
+## or
+
+```
+
+ /*-------------------------------------
+  Move Yoast to the Bottom
+---------------------------------------*/
+function yoasttobottom() {
+    return 'low';
+}
+add_filter( 'wpseo_metabox_prio', 'yoasttobottom');
+
+```
+
+## Override SEO Breadcrumb Trail
+
 ```
 /**
  * Override Yoast SEO Breadcrumb Trail
