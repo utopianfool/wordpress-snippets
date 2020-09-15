@@ -48,6 +48,8 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Child Theme](templates/child-theme.md)
     - [Search](templates/search.md)
     - [Searchform](templates/searchform.md)
+- Custom Branding :open_file_folder:
+    - [Login Page Logo](login-page-logo.md)
 - Walkers :open_file_folder:
     - [Bootstrap Hover Nav](templates/walkers/bootstrap-hover-nav.md)
     - [Bootstrap Nav](templates/walkers/bootstrap-nav.md)
