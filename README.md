@@ -41,9 +41,10 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Walkers](functions/walkers.md)
     - [Yoast](functions/yoast.md)
 - Templates :file_folder:
+    - [Archive](templates/archive.md)
+    - [Child Theme](templates/child-theme.md)
     - [Search](templates/search.md)
     - [Searchform](templates/searchform.md)
-    - [Archive](templates/archive.md)
 - Walkers :open_file_folder:
     - [Bootstrap Hover Nav](templates/walkers/bootstrap-hover-nav.md)
     - [Bootstrap Nav](templates/walkers/bootstrap-nav.md)
