@@ -21,6 +21,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [DisplayTweets Plugin Override](functions/displaytweets-plugin-override.md)
     - [Enqueue Fonts](functions/enqueue-fonts.md)
     - [Enqueue Scripts and Styles](functions/enqueue-scripts-and-styles.md)
+    - [Fontawesome to Dashicon](fontawesome-to-dashicon.md)
     - [Formidible Forms Change Blank Option Label in Dynamic Field](formidible-forms-change-blank-option-label-in-dynamic-field.md)
     - [Formidible Forms Populate Dropdowns From Post](functions/formidible-forms-populate-dropdowns-from-post.md)
     - [Gernerate Site Map](functions/generate-site-map.md)
