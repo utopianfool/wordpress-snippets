@@ -53,6 +53,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Custom Dashboard Widgets](templates/custom-branding/custom-dashboard-widgets.md)
     - [Login Page Logo](templates/custom-branding/login-page-logo.md)
     - [Footer in Admin Panel](templates/custom-branding/footer-in-admin-panel.md)
+    - [Remove Dashboard Widgets](templates/custom-branding/remove-dashboard-widgets.md)
 - Walkers :open_file_folder:
     - [Bootstrap Hover Nav](templates/walkers/bootstrap-hover-nav.md)
     - [Bootstrap Nav](templates/walkers/bootstrap-nav.md)
