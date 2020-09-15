@@ -49,7 +49,8 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Search](templates/search.md)
     - [Searchform](templates/searchform.md)
 - Custom Branding :open_file_folder:
-    - [Login Page Logo](login-page-logo.md)
+    - [Admin Bar Logo](templates/custom-branding/admin-bar-logo.md)
+    - [Login Page Logo](templates/custom-branding/login-page-logo.md)
 - Walkers :open_file_folder:
     - [Bootstrap Hover Nav](templates/walkers/bootstrap-hover-nav.md)
     - [Bootstrap Nav](templates/walkers/bootstrap-nav.md)
