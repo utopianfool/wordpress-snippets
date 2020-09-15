@@ -27,6 +27,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Gernerate Site Map](functions/generate-site-map.md)
     - [HTML5 Reformat Telephone Numbers](functions/html5-reformat-telephone-numbers.md)
     - [Include Custom Post Types in Search Results](functions/include-custom-post-types-in-search-results.md)
+    - [Move Excerpt Box to Top of Page](functions/move-excerpt-box-to-top-of-page.md)
     - [Pagination](functions/pagination.md)
     - [Post Options](functions/post-options.md)
     - [Register Guttenburg Editor for Custom Post Types](register-guttenburg-editor-for-custom-post-types.md)
