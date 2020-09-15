@@ -90,3 +90,32 @@ function general_admin_notice(){
 add_action('admin_notices', 'general_admin_notice');
 
 ```
+
+### Add custom styles to admin
+
+```
+
+/**
+ * Add custom styles to admin
+ */
+add_action('admin_head', 'guide_fonts');
+
+function guide_fonts() {
+  echo '<style>
+    .guide-wrapper {
+        padding: 20px 0;
+        font-family: "Helvetica", sans-serif;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+    .guide-wrapper h1 {
+        text-align: center;
+        font-size: 2rem;
+    }
+    .guide-wrapper p {
+        font-size: 14px;
+    }
+  </style>';
+}
+
+```
