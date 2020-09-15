@@ -13,6 +13,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Check if Page is Child or Subpage](functions/check-if-page-is-child-or-subpage.md)
     - [Contact Form 7](functions/contact-form-7.md)
     - [Custom Login Form](functions/custom-login-form.md)
+    - [Custom Post Tags](custom-post-tags.md)
     - [Custom Post Taxonomy](functions/custom-post-taxonomy.md)
     - [Custom Post Types](functions/custom-post-types.md)
     - [Custom Shortcodes](functions/custom-shortcodes.md)
