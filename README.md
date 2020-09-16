@@ -53,6 +53,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Admin Bar Logo](templates/custom-branding/admin-bar-logo.md)
     - [Admin Notices](templates/custom-branding/admin-notices.md)
     - [Custom Dashboard Widgets](templates/custom-branding/custom-dashboard-widgets.md)
+    - [Customise Admin Toolbar](templates/custom-branding/customise-admin-toolbar.md)
     - [Login Page Logo](templates/custom-branding/login-page-logo.md)
     - [Footer in Admin Panel](templates/custom-branding/footer-in-admin-panel.md)
     - [Remove Dashboard Widgets](templates/custom-branding/remove-dashboard-widgets.md)
