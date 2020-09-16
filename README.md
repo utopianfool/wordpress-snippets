@@ -69,6 +69,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Sidebar Menu](templates/template-parts/sidebar-menu.md)
 - Javascript Assets :open_file_folder:
     - [Add Caret to Submenu](core/assets/js/add-caret-to-submenu.md)
+    - [Custom Form Checkbox](core/assets/js/custom-form-checkbox.md)
     - [Disable Active Links When Screen Resized](disable-active-links-when-screen-resized.md)
     - [Navbar Hides on Scroll](core/assets/js/navbar-hides-on-scroll.md)
     - [Only Load Scripts Used on Page](core/assets/js/only-load-scripts-used-on-page.md)
