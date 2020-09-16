@@ -5,6 +5,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
 ## Index
 :globe_with_meridians:
 - Functions :file_folder:
+    - [Add Popup Functionality to Gallery](functions/add-popup-functionality-to-gallery.md)
     - [Admin Options](functions/admin-options.md)
     - [Advanced Custom Fields Options](functions/advanced-custom-fields-options.md)
     - [Advanced Custom Fields Responsive Images](functions/advanced-custom-fields-responsive-images.md)
