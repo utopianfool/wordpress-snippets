@@ -67,3 +67,20 @@ remove_shortcode('gallery');
 add_shortcode('gallery', 'gallery_pops');
 
 ```
+
+## jQuery usage in theme.js
+
+```
+
+// Ekko-lightbox gallery
+    $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+        event.preventDefault();
+        $(this).ekkoLightbox({
+            alwaysShowClose: true,
+            wrapping: true,
+            showArrows: true,
+            maxWidth: 1200,
+        });
+    });
+
+```
