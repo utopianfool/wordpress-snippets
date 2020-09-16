@@ -3,20 +3,22 @@
 
 Include(enqueue) these CDN links in the wordpress functions.php file or add the files to an appripriate folder:
 
-## [wow.js](http://mynameismatthieu.com/WOW/)
-## [animate.css](https://daneden.github.io/animate.css/)
-## [scrollspy.js](https://github.com/makotot/scrollspy)
+## Links
 
-# CDN
+- [wow.js](http://mynameismatthieu.com/WOW/)
+- [animate.css](https://daneden.github.io/animate.css/)
+- [scrollspy.js](https://github.com/makotot/scrollspy)
 
-## [wow.js](https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js)
+# CDNs
+
+### [wow.js](https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js)
  - [wow.js version 1.2.2](https://cdnjs.cloudflare.com/ajax/libs/graingert-wow/1.2.2/wow.min.js)
-## [animate.css](https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.3/animate.min.css)
+### [animate.css](https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.3/animate.min.css)
  - [animate.css version 3.5.2](https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css)
-## [scrollspy.js](https://gitcdn.xyz/repo/thesmart/jquery-scrollspy/0.1.3/scrollspy.js)
-## [jQuery 3.2.1](https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js)
+### [scrollspy.js](https://gitcdn.xyz/repo/thesmart/jquery-scrollspy/0.1.3/scrollspy.js)
+### [jQuery 3.2.1](https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js)
 
-##HTML
+## HTML
 
 ```
 <div class="wow fadeIn" data-wow-duration="1s" data-wow-delay="1.5s">
@@ -32,6 +34,8 @@ data-wow-iteration: Number of times the animation is repeated
 ```
 
 Add these functions to your javascript to initialilse wow and to reset the animations once activated.
+
+## theme.js
 
 ```
 // Wow js
@@ -2971,4 +2975,71 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   -webkit-animation-name: londonSlideInUp;
   animation-name: londonSlideInUp;
 }
+```
+
+## SCSS
+
+Cool SASS function to add cascading fade in
+
+```
+
+@keyframes "swoopinCascade" {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(-50px);
+        -ms-transform: translateX(-50px);
+        transform: translateX(-50px);
+    }
+    75% {
+        opacity: 0.8;
+    }
+    100% {
+        opacity: 1;
+        -webkit-transform: translateX(0px);
+        -ms-transform: translateX(0px);
+        transform: translateX(0px);
+    }
+}
+@-webkit-keyframes "swoopinCascade" {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(-50px);
+        transform: translateX(-50px);
+    }
+    75% {
+        opacity: 0.8;
+    }
+    100% {
+        opacity: 1;
+        -webkit-transform: translateX(0px);
+        transform: translateX(0px);
+    }
+}
+.swoopinCascade {
+    -webkit-animation-name: swoopinCascade;
+    animation-name: swoopinCascade;
+    will-change: transform;
+    @for $i from 1 through 16 {
+        &:nth-of-type(#{$i}) {
+            -webkit-animation-delay: $i * 0.35s;
+            -moz-animation-delay:$i * 0.35s;
+            animation-delay:$i * 0.35s;
+        }
+    }
+}
+@media (max-width: 768px) {
+    .swoopinCascade {
+        -webkit-animation-name: swoopinCascade;
+        animation-name: swoopinCascade;
+        will-change: transform;
+        @for $i from 1 through 16 {
+            &:nth-of-type(#{$i}) {
+                -webkit-animation-delay: $i * 0.15s;
+                -moz-animation-delay:$i * 0.15s;
+                animation-delay:$i * 0.15s;
+            }
+        }
+    }
+}
+
 ```
