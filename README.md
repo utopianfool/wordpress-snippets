@@ -74,6 +74,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
 - Plugins
     - [Plugin Recommendations](plugins/plugin-recommendations.md)
 - Extras
+    - [Add New User to WordPress Database](extras/add-new-user-to-wordpress-database.md)
     - [Domain Updater in SQL](extras/domain-updater.md)
     - [Responsive Email Signature](extras/responsive-email-signature.md)
     - [Tar Zip Everything](extras/tar-zip-everything.md)
