@@ -19,6 +19,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Custom Post Taxonomy](functions/custom-post-taxonomy.md)
     - [Custom Post Types](functions/custom-post-types.md)
     - [Custom Shortcodes](functions/custom-shortcodes.md)
+    - [Defer Scripts](functions/defer-scripts.md)
     - [Disable Emojis](functions/disable-emojis.md)
     - [DisplayTweets Plugin Override](functions/displaytweets-plugin-override.md)
     - [Enqueue Fonts](functions/enqueue-fonts.md)
