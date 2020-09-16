@@ -76,6 +76,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Disable Active Links When Screen Resized](disable-active-links-when-screen-resized.md)
     - [Navbar Hides on Scroll](core/assets/js/navbar-hides-on-scroll.md)
     - [Only Load Scripts Used on Page](core/assets/js/only-load-scripts-used-on-page.md)
+    - [Set Session Cookie for Popup](core/assets/js/set-session-cookie-for-popup.md)
     - [Simulate Browser Back Button](core/assets/js/simulate-browser-back-button.md)
     - [WOW Scroll Animation](core/assets/js/wow-scroll-animation.md)
 - Plugins
