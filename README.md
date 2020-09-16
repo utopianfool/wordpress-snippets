@@ -78,6 +78,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Responsive Email Signature](extras/responsive-email-signature.md)
     - [Tar Zip Everything](extras/tar-zip-everything.md)
     - [Twitter Cards](extras/twitter-cards.md)
+    - [Update URLs in database](extras/update-urls-in-database.md)
 
 ---
 
