@@ -48,6 +48,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
 - Templates :file_folder:
     - [Archive](templates/archive.md)
     - [Child Theme](templates/child-theme.md)
+    - [Flexible Content ACF Example](templates/flexible-content-acf-example.md)
     - [Search](templates/search.md)
     - [Searchform](templates/searchform.md)
 - Custom Branding :open_file_folder:
