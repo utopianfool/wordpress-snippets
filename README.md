@@ -84,6 +84,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
 - Extras
     - [Add New User to WordPress Database](extras/add-new-user-to-wordpress-database.md)
     - [Domain Updater in SQL](extras/domain-updater.md)
+    - [Git Commands Most Commonally Used](extras/git-commands-most-commonally-used.md)
     - [Responsive Email Signature](extras/responsive-email-signature.md)
     - [Tar Zip Everything](extras/tar-zip-everything.md)
     - [Testing Tools](extras/testing-tools.md)
