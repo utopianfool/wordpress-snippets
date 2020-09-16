@@ -11,6 +11,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Anchor Link String](functions/anchor-link-string.md)
     - [Change Default Search Page Slug URL](change-default-search-page-slug-url.md)
     - [Check if Page is Child or Subpage](functions/check-if-page-is-child-or-subpage.md)
+    - [Check Post Children and Ancestors](functions/check-post-children-and-ancestors.md)
     - [Contact Form 7](functions/contact-form-7.md)
     - [Custom Login Form](functions/custom-login-form.md)
     - [Custom Post Tags](custom-post-tags.md)
