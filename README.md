@@ -75,8 +75,9 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Plugin Recommendations](plugins/plugin-recommendations.md)
 - Extras
     - [Domain Updater in SQL](extras/domain-updater.md)
-    - [Twitter Cards](extras/twitter-cards.md)
     - [Responsive Email Signature](extras/responsive-email-signature.md)
+    - [Tar Zip Everything](extras/tar-zip-everything.md)
+    - [Twitter Cards](extras/twitter-cards.md)
 
 ---
 
