@@ -70,6 +70,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Dynamic Page Menu](templates/walkers/dynamic-page-menu.md)
     - [Sitemap Walker](templates/walkers/sitemap-walker.md)
 - Template Parts :open_file_folder:
+    - [Mailchimp Shortcode](templates/template-parts/mailchimp-shortcode.md)
     - [Sidebar Menu](templates/template-parts/sidebar-menu.md)
 - Javascript Assets :open_file_folder:
     - [Add Caret to Submenu](core/assets/js/add-caret-to-submenu.md)
