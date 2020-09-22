@@ -29,6 +29,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Formidible Forms Change Blank Option Label in Dynamic Field](functions/formidible-forms-change-blank-option-label-in-dynamic-field.md)
     - [Formidible Forms Populate Dropdowns From Post](functions/formidible-forms-populate-dropdowns-from-post.md)
     - [Gernerate Site Map](functions/generate-site-map.md)
+    - [Hexadecimal to RGB](functions/hexadecimal-to-RGB.md)
     - [HTML5 Reformat Telephone Numbers](functions/html5-reformat-telephone-numbers.md)
     - [Include Custom Post Types in Search Results](functions/include-custom-post-types-in-search-results.md)
     - [Move Excerpt Box to Top of Page](functions/move-excerpt-box-to-top-of-page.md)
