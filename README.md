@@ -34,6 +34,7 @@ A collection of functions, CSS and jQuery snippets for WordPress developers.
     - [Include Custom Post Types in Search Results](functions/include-custom-post-types-in-search-results.md)
     - [Move Excerpt Box to Top of Page](functions/move-excerpt-box-to-top-of-page.md)
     - [Pagination](functions/pagination.md)
+    - [Redirect Login URL](functions/redirect-login-url.md)
     - [Post Options](functions/post-options.md)
     - [Register Guttenburg Editor for Custom Post Types](functions/register-guttenburg-editor-for-custom-post-types.md)
     - [Responsive Images Helper Function](functions/responsive-images-helper-function.md)
